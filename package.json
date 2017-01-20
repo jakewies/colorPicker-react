@@ -1,7 +1,7 @@
 {
   "name": "react-colorpicker",
   "version": "0.1.0",
-  "homepage": "http://jake-wies.github.io/react-colorpicker",
+  "homepage": "http://jake-wies.github.io/colorPicker-react",
   "private": true,
   "devDependencies": {
     "gh-pages": "^0.12.0",
